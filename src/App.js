@@ -9,7 +9,10 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="text-center">Coded by Lindsey Jones</footer>
+        <footer className="text-center">
+          <a href="https://github.com/L-Jones-hub">Open-Source Code</a> by
+          Lindsey Jones
+        </footer>
       </div>
     </div>
   );
