@@ -1,4 +1,20 @@
-# Getting Started with Create React App
+# Dictionary App
+
+<a href="https://super-llama-f8a10f.netlify.app/" title="Deployed Dictionary App" target="_blank">Deployed Site</a>
+
+## Description
+
+This app was created with React and uses a dictionary API. Users can see word definitions, hear pronunciations, see synonyms, and see pictures.
+
+## Usage
+
+![This shows the start page. This is where the user should type in the word that they want to search.](./src/img/Dictionary%20App.png)
+
+## Credits
+
+<a href="https://dictionaryapi.dev/" title="Dictionary API" target="_blank">Dictionary API</a>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
