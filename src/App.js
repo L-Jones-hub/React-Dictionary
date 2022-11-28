@@ -4,7 +4,6 @@ import Dictionary from "./Dictionary";
 export default function App() {
   return (
     <div>
-      
       <div className="App">
         <h1>Dictionary App</h1>
         <div className="container">
@@ -13,8 +12,10 @@ export default function App() {
             <Dictionary />
           </main>
           <footer className="text-center">
-            <a href="https://github.com/L-Jones-hub">Open-Source Code</a> by
-            Lindsey Jones
+            <a href="https://github.com/L-Jones-hub/React-Dictionary">
+              Open-Source Code
+            </a>{" "}
+            by Lindsey Jones
           </footer>
         </div>
       </div>
